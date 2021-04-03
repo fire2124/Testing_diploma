@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Test Traffic</name>
+   <name>Test Stop</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>ecd30d5e-1c19-47c3-8a5e-61c2ce9bdbde</testCaseGuid>
+   <testCaseGuid>a3931dc0-0627-4732-91a2-e5df1b95d5a3</testCaseGuid>
 </TestCaseEntity>

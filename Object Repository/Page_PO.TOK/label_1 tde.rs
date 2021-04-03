@@ -35,7 +35,7 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>sc-pFZIQ blKKXu</value>
+      <value>sc-jrAGrp hNealr</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;sc-dIUggk gBcQIh&quot;]/div[@class=&quot;sc-bdfBwQ gcjelq mr-20 flex-column flex-grow p-5&quot;]/form[@class=&quot;mt-5 pt-5 mx-auto text-center&quot;]/label[@class=&quot;sc-pFZIQ blKKXu&quot;]</value>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-bBXqnf hOVHXz&quot;]/div[@class=&quot;sc-bdfBwQ dXZmBy mr-20 flex-column flex-grow p-5&quot;]/form[@class=&quot;mt-5 pt-5 mx-auto text-center&quot;]/label[@class=&quot;sc-jrAGrp hNealr&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>

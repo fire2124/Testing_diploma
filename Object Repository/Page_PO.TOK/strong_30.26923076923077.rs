@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>label_1 mesiac</name>
+   <name>strong_30.26923076923077</name>
    <tag></tag>
-   <elementGuidId>73023639-1c3c-43ab-8838-91ae90aae25b</elementGuidId>
+   <elementGuidId>7ae9e8f5-7bbf-4785-ba5b-01712c8e88ee</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>strong.sc-bqyKva.byPvnK</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//main[@id='root']/div/div[2]/form/label[8]</value>
+         <value>//main[@id='root']/div/div/div[3]/div/p/strong</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,69 +21,62 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>label</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>for</name>
-      <type>Main</type>
-      <value>7</value>
+      <value>strong</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>sc-jrAGrp hNealr</value>
+      <value>sc-bqyKva byPvnK</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>1 mesiac</value>
+      <value>30.26923076923077</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;sc-bBXqnf hOVHXz&quot;]/div[@class=&quot;sc-bdfBwQ dXZmBy mr-20 flex-column flex-grow p-5&quot;]/form[@class=&quot;mt-5 pt-5 mx-auto text-center&quot;]/label[@class=&quot;sc-jrAGrp hNealr&quot;]</value>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-dIUggk gBcQIh&quot;]/div[@class=&quot;sc-kstrdz fLbvUu&quot;]/div[@class=&quot;sc-bdfBwQ gcjelq&quot;]/div[1]/p[@class=&quot;sc-dQppl iTXChw&quot;]/strong[@class=&quot;sc-bqyKva byPvnK&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//main[@id='root']/div/div[2]/form/label[8]</value>
+      <value>//main[@id='root']/div/div/div[3]/div/p/strong</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='OpenStreetMap'])[3]/following::label[8]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Štatistika'])[1]/following::strong[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leaflet'])[3]/following::label[8]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vyťaženosť zastávok'])[2]/following::strong[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='1 mesiac']/parent::*</value>
+      <value>//*/text()[normalize-space(.)='30.26923076923077']/parent::*</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//label[8]</value>
+      <value>//p/strong</value>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Test Traffic</name>
-   <tag></tag>
+   <name>Test Navbar</name>
+   <tag>navbar</tag>
    <comment></comment>
-   <testCaseGuid>ecd30d5e-1c19-47c3-8a5e-61c2ce9bdbde</testCaseGuid>
+   <testCaseGuid>1ba27e99-21f9-416c-9fab-f867abff83f8</testCaseGuid>
 </TestCaseEntity>
